@@ -10,7 +10,9 @@ These directions will give you a copy of the project that will be running on you
 
 ### Dataset
 
-Dataset can be found ar Azure AI Gallery. 
+The dataset I'm going to use was posted to Kaggle.com through Manjeet Singh two years ago and is located at:
+https://www.kaggle.com/manjeetsingh/retaildataset#Features%20data% 20set.csv
+
 
 ### Prerequisites
 
