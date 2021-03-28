@@ -48,6 +48,6 @@ Follow the below instructions to execute this project succesfully:
 
 ## Instructor
 
-- *Catherine Williams* 
+- *Fadi Alsaleems* 
 
 
